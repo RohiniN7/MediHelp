@@ -24,7 +24,7 @@ Contributions to MediHelp are welcome! Feel free to fork our repositories, open 
 
 ## 📞 Contact Us
 Have questions or suggestions? Reach out to us:
-- Email: saggujasmit2@gmail.com/shendrepl@rknec.edu
+- Email: rdnahate@gmail.com
 
 ## 🙏 Acknowledgements
 We would like to express our gratitude to the developers and contributors of PaddleOCR, Mistral, and LangChain for their incredible work and dedication to advancing technology in the healthcare domain.
